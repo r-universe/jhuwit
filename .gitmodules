@@ -11,3 +11,6 @@
 [submodule "mapnhanespa"]
 	path = mapnhanespa
 	url = https://github.com/jhuwit/mapnhanespa
+[submodule "walking"]
+	path = walking
+	url = https://github.com/jhuwit/walking
