@@ -8,6 +8,9 @@
 [submodule "actiread"]
 	path = actiread
 	url = https://github.com/jhuwit/actiread
+[submodule "asleep"]
+	path = asleep
+	url = https://github.com/jhuwit/asleep
 [submodule "mapnhanespa"]
 	path = mapnhanespa
 	url = https://github.com/jhuwit/mapnhanespa
