@@ -8,6 +8,9 @@
 [submodule "actinet"]
 	path = actinet
 	url = https://github.com/jhuwit/actinet
+[submodule "actiquantiles"]
+	path = actiquantiles
+	url = https://github.com/jhuwit/actiquantiles
 [submodule "actiread"]
 	path = actiread
 	url = https://github.com/jhuwit/actiread
