@@ -14,6 +14,9 @@
 [submodule "actiread"]
 	path = actiread
 	url = https://github.com/jhuwit/actiread
+[submodule "actisensorlog"]
+	path = actisensorlog
+	url = https://github.com/jhuwit/actisensorlog
 [submodule "actiwalkability"]
 	path = actiwalkability
 	url = https://github.com/jhuwit/actiwalkability
