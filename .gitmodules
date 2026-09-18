@@ -5,6 +5,9 @@
 [submodule "actibase"]
 	path = actibase
 	url = https://github.com/jhuwit/actibase
+[submodule "actimetrics"]
+	path = actimetrics
+	url = https://github.com/jhuwit/actimetrics
 [submodule "actinet"]
 	path = actinet
 	url = https://github.com/jhuwit/actinet
