@@ -11,6 +11,9 @@
 [submodule "actinet"]
 	path = actinet
 	url = https://github.com/jhuwit/actinet
+[submodule "actiplot"]
+	path = actiplot
+	url = https://github.com/jhuwit/actiplot
 [submodule "actiquantiles"]
 	path = actiquantiles
 	url = https://github.com/jhuwit/actiquantiles
@@ -20,6 +23,9 @@
 [submodule "actisensorlog"]
 	path = actisensorlog
 	url = https://github.com/jhuwit/actisensorlog
+[submodule "actisomni"]
+	path = actisomni
+	url = https://github.com/jhuwit/actisomni
 [submodule "actiwalkability"]
 	path = actiwalkability
 	url = https://github.com/jhuwit/actiwalkability
