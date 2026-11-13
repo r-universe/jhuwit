@@ -35,6 +35,9 @@
 [submodule "mapnhanespa"]
 	path = mapnhanespa
 	url = https://github.com/jhuwit/mapnhanespa
+[submodule "rester"]
+	path = rester
+	url = https://github.com/jhuwit/rester
 [submodule "walking"]
 	path = walking
 	url = https://github.com/jhuwit/walking
